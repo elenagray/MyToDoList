@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough:
-
-file:///Users/egray/Desktop/MyToDoList/walkthrough.gifGIF
+https://github.com/elenagray/SimpleTodo/blob/master/walkthrough.gif
 created with [AndroidStudio].
 
 ## Notes
