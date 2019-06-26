@@ -26,8 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough:
 
-http://recordit.co/1XWOMZGSXy
-GIF created with [RecordIt](http://recordit.co/).
+file:///Users/egray/Desktop/MyToDoList/walkthrough.gifGIF
+created with [AndroidStudio].
 
 ## Notes
 
