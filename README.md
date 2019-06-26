@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough:
-https://github.com/elenagray/SimpleTodo/blob/master/walkthrough.gif
+<img src='https://github.com/elenagray/SimpleTodo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 created with [AndroidStudio].
 
 ## Notes
