@@ -1,4 +1,4 @@
-# Project 1 - *To-Do List*
+# Project 1 - *SimpleTodo*
 
 **Get It Done!** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
 http://recordit.co/1XWOMZGSXy
 GIF created with [RecordIt](http://recordit.co/).
